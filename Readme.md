@@ -1,4 +1,4 @@
-syntax : add-nbo <file1> <file2><br>
+syntax : add-nbo file1 file2<br>
 sample : add-nbo a.bin c.bin<br>
 
 # example<br>
